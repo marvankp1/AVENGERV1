@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/marvankp15"
+                                    'Developers', url="https://t.me/MALAYALAM_MOVES2"
                                 )
                         ]
                     ]
@@ -47,10 +47,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/marvankp15'),
+        InlineKeyboardButton('Developers', url='https://t.me/MALAYALAM_MOVES2'),
         InlineKeyboardButton('Source Code 🧾', url ='https://github.com/marvankp1/AVENGERV1')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/marvankp15')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/MALAYALAM_MOVES2')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
